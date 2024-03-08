@@ -1,0 +1,11 @@
+{
+  "name": "@company/component-2",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@company/component-1": "1.0.0"
+  }
+}
