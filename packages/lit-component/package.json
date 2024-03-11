@@ -1,0 +1,15 @@
+{
+  "name": "@company/lit-component",
+  "version": "1.0.0",
+  "license": "MIT",
+  "module": "src/index.ts",
+  "main": "src/index.ts",
+  "dependencies": {
+    "lit": "^3.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2",
+    "vite": "^5.1.5"
+  }
+}
